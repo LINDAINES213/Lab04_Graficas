@@ -13,8 +13,8 @@ A continuacion se muestran los shaders realizados:<br><br>
 ## Tierra
 ![Blender_s-Model-2023-10-17-13-34-23](https://github.com/LINDAINES213/Lab04_Graficas/assets/77686175/6b5d9c17-5d94-4940-aa0f-c3d51d4bfed5)<br><br>
 ## Jupiter
-![Blender_s-Model-2023-10-17-13-37-54](https://github.com/LINDAINES213/Lab04_Graficas/assets/77686175/9a434f2f-07a8-4584-82c5-b9464331b0f9)<br><br>
+![image](https://github.com/LINDAINES213/Lab04_Shaders/assets/77686175/5d50b46b-ca40-4ae2-9fde-fdb0c1e22f47)
 ## Neptuno
-![Blender_s-Model-2023-10-17-13-37-26](https://github.com/LINDAINES213/Lab04_Graficas/assets/77686175/8f9146de-e361-447f-bdf9-79101cccbab4)<br><br>
+![image](https://github.com/LINDAINES213/Lab04_Shaders/assets/77686175/817f0b1a-06d6-4b61-bba2-5c5cdb85d10b)
 ## Planeta Random Morado
 ![Blender_s-Model-2023-10-17-13-36-42](https://github.com/LINDAINES213/Lab04_Graficas/assets/77686175/9ddc7f3e-3b1e-4c0c-8240-4f8b4650b2d4)<br><br>
